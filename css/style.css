@@ -79,7 +79,47 @@ h3 {
     font-size: 20px;
     color: white;
     font-family: sans-serif;
+    margin: 0 auto;
 }
+
+/* section start */
+.section__john{
+    display: block;
+    justify-content: center;
+    margin-top:20px;
+ 
+}
+.info__block{
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+    gap: 20px;
+}
+.section__h2{
+    font-family: sans-serif;
+    font-size: 50px;
+    justify-content: center;
+    text-align: center;
+    color: green;
+}
+.section__text{
+    font-family: serif;
+    text-align: justify;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    margin-bottom: 20px;
+}
+
+.section__img{
+    height: 500px;
+    width: 500px;
+    margin-bottom: 20px;
+    margin: auto;
+    border-radius: 10px;
+}
+/* section end */
+
 .footer{
     text-transform: uppercase;
     display: flex;
