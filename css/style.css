@@ -90,6 +90,45 @@ h3 {
     font-size: 80px;
     color: white;
 }
+/* .fayzullo{
+    background-color: rgb(80, 78, 78);
+} */
+.watch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 30px;
+    margin-top: 30px;
+    margin-bottom: 48px;
+    background-color:rgb(158, 157, 157);
+    color: white;
+    font-size: 56px;
+}
+.watch:hover {
+    color: red;
+}
+.watch_text {
+    display: flex;
+    text-align: center;
+    padding: 15px 30px;
+    font-size: 32px;
+    background-color: rgb(240, 98, 98);
+    color: white;
+    border-radius: 15px;
+}
+.watch_text:hover {
+    color: black;
+}
+.watch_img {
+    display: block;
+    margin: 0 auto;
+    padding: 15px 30px;
+    max-width: 100%;
+    width: 37%;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 
 /* Lorem Start */
 
@@ -147,7 +186,6 @@ h3 {
 }
 
 /* Lorem End */
-=======
 .solihjon {
     text-align: center;
     padding: 20px 0;
@@ -225,7 +263,6 @@ h3 {
     0%{transform: translateY(-20px);}
     0%{transform: translateY(-20px);}
 }
-=======
     padding: 15px 55px;
     border-radius: 2px;
     background-color: red;
